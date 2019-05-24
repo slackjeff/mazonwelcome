@@ -1,7 +1,10 @@
 # mazonwelcome
 Exibe tela de boa vindas para distribuição MazonOS. Criado totalmente em bash + YAD.
 
+## Tela Principal
 ![img1]
+
+## Tela com Abertura
 ![img2]
 
 
